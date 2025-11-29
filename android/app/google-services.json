@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307019472054",
+    "project_id": "flutterproject-c895b",
+    "storage_bucket": "flutterproject-c895b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307019472054:android:fad4b28d7feb0e4f42da17",
+        "android_client_info": {
+          "package_name": "com.example.diplom2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk8sCAJw8yI7zlGPElME8NgdcygRgkk8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307019472054:android:b2b068905f049d7342da17",
+        "android_client_info": {
+          "package_name": "com.lenovo.f"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk8sCAJw8yI7zlGPElME8NgdcygRgkk8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

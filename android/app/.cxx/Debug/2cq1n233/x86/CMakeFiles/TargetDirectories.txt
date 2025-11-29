@@ -1,0 +1,2 @@
+C:/Users/Lenovo/StudioProjects/diplom2/android/app/.cxx/Debug/2cq1n233/x86/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/StudioProjects/diplom2/android/app/.cxx/Debug/2cq1n233/x86/CMakeFiles/rebuild_cache.dir
